@@ -9,7 +9,11 @@ Blinkit Analysis:
 [App power BI link(https://app.powerbi.com/view?r=eyJrIjoiOTZjYWFlYmEtYjNlNS00NWYwLWI4MzEtMjRmZTYxOTZkMTg2IiwidCI6IjFmZjg3NDUyLTdlYzQtNDYwYS04YTRiLWY0MmUzMjY1NzQzNyJ9)]
 
 Project 3:
-Awesome Chocolates Financial Insights"
+Awesome Chocolates Financial Insights:
 [App power BI link(https://app.powerbi.com/view?r=eyJrIjoiN2M4NDI1YzQtMmQyYi00YjkyLWFkZTItOTU0YTUwODFlNjljIiwidCI6IjFmZjg3NDUyLTdlYzQtNDYwYS04YTRiLWY0MmUzMjY1NzQzNyJ9)]
+
+Project 4:
+Atliqo Revenu Analysis:
+[App power BI Link(https://app.powerbi.com/view?r=eyJrIjoiYTk4MjRkN2YtYzI4NC00MGQ1LTg4MjYtMTUxMzhlNWE5YTRhIiwidCI6IjFmZjg3NDUyLTdlYzQtNDYwYS04YTRiLWY0MmUzMjY1NzQzNyJ9)]
 
 
